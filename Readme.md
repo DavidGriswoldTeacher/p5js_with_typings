@@ -20,7 +20,12 @@ I have automated this repository as much as possible, but you may need this info
 
 ## Using VS Code on a local computer instead
 
-Though this repository was really designed to be used in GitPod, you could also download it locally and use it in Visual Studio Code. To get it working, you would need to (1) Install NodeJS and npm, (2) install VS code, (3) use your git tool of choice to clone this repository, (4) run "npm install" in the project folder (there is a task for that in Terminal->Tasks). You can still use the "serve" task from the terminal to run the code in a browser.
+Though this repository was originally designed to be used in GitPod, you could also download it locally and use it in Visual Studio Code. To get it working, you would need to 
+1. Install NodeJS and npm,
+2. Install VS code,
+3. Use your git tool of choice to clone this repository,
+4. Run "npm install" in the project folder (there is a task for that in Terminal->Tasks)
+5. You can still use the "serve" task from the terminal to run the code in a browser, or any other Live Server extension you enjoy
 
 ## Useful Links to learn more
 
